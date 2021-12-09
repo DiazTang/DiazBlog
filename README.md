@@ -1,1 +1,1 @@
-# DiazBlog
+# PandaBlog
